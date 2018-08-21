@@ -1,0 +1,8 @@
+101,Amitabh,Bacchan,65,Actor
+102,Sharukh,Khan,45,Doctor
+103,Akshay,Kumar,38,Dentist
+104,Anubahv,kumar,58,Business
+105,Pawan,Trivedi,34,service
+106,Aamir,Null,42,scientest
+107,Salman,Khan,43,Surgen
+108,Ranbir,Kapoor,26,Industrialist

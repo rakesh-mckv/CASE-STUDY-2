@@ -1,0 +1,8 @@
+97834,05/02/2018,101,965,Entertainment,Movie,Pune,Maharashtra,Daughter
+98396,12/01/2018,102,239,Food,Grocery,Patna,Bihar,Self
+34908,06/01/2018,101,875,Travel,Air,Bangalore,Karnataka,Spouse
+70958,17/02/2018,104,439,Food,Restaurant,Delhi,Delhi,Wife
+09874,21/01/2018,105,509,Entertainment,Park,Kolkata,West Bengal
+94585,19/01/2018,106,629,Rent,House,Hyderabad,Telangana,Self
+45509,20/01/2018,107,953,Travel,Rail,Chennai,Tamil Nadu,Brother
+07864,01/02/2018,108,569,Rent,Parking,Goa,Goa,Wife
